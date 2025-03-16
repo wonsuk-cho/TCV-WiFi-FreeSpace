@@ -1,0 +1,10 @@
+paho-mqtt
+numpy
+opencv-python
+scikit-image
+matplotlib
+pandas
+statsmodels
+tk
+Pillow
+pexpect
